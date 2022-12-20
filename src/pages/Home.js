@@ -6,7 +6,7 @@ function Home() {
         
             <div className="backgroundImage grid grid-cols-2 place-content-center">
                 <div className='justify-self-center place-self-center border-2 border-black'>
-                <img src={me} alt="Jaeger at a photo shoot" />
+                <img src={me} alt="Jaeger at a boudoir shoot" />
                 </div>
                 <div className="bg-amber-50 p-5 text-center text-sm mr-20 border-2 border-black my-[100%]">Welcome. My name is Jaeger and I'm homegrown here in the good ol' Pacific Northwest. I grew up all over the Puget Sound in Kitsap, Pierce and King counties. From the day I was born until the day I left for college I was always creative, a critical thinker and liked to solve problems. Life was a puzzle and I was ready to put the pieces together. Growing up I also played the piano, sang and was quite the ham. My rendition of Animal Fair came landed me as the runner up in the local talent show behind the Riverdancing. 6 year old me still thinks he was snubbed! I went through High School and College deciding between a career in the arts or an unfulfilling career for the sake of financial stability. I landed up at Western Washington University where I cross-studied Theatre with a concentration in Acting. I had found my passion and I was not ready to give it up. Post university I realized that what I loved wasn't going to pay the bills. I worked a couple of different jobs until about two years into the pandemic when the lack of creativity and underappreciation had me burnt out. After a 6 month hiatus, I decided to take a coding bootcamp course through the University of Washington.
                 <br></br>
