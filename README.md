@@ -1,35 +1,45 @@
-# Getting Started with Create React App
+# Using React
+This project was created with the React app! 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To create your own enter the command below into your CLI. The part that says 'my-app' can be whatever you'd like to call the app/folder. 
+```
+npx create-react-app my-app
+```
 
-## Available Scripts
+## Installation
 
-In the project directory, you can run:
+To install dependencies/etc. enter the commands below. 
 
-### `npm start`
+```
+npm init -y
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```
+npm install
+``` 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Afterwards you can start your app and making changes to it after entering another command: 
 
-### `npm test`
+```
+npm start
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This will initialize the app onto your localhost at localhost:3000 where you can see things changes and receive errors in real time.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Deployment
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+When you are satisfied with the app you have created, build it by running: 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+npm build
+```
 
-### `npm run eject`
+The bundles everything into a folder and optimizes the build for performance when you deploy the app.
+
+See [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information about deploying your app.
+
+### Ejecting your Build`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
