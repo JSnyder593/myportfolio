@@ -1,3 +1,4 @@
+import React from 'react'
 import { RiCopyrightFill } from 'react-icons/ri'
 
 function Footer() {

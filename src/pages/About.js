@@ -1,6 +1,6 @@
-import beer from '../Assets/images/notfolsom.jpg'
-import theatre from '../Assets/images/urinetown.jpg'
-import bros from '../Assets/images/bros.jpg'
+import beer from '../assets/images/notfolsom.jpg'
+import theatre from '../assets/images/urinetown.jpg'
+import bros from '../assets/images/bros.jpg'
 
 function About() {
     return (

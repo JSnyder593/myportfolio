@@ -1,4 +1,5 @@
-import me from '../Assets/images/photo.jpg'
+import React from 'react'
+import me from '../assets/images/photo.jpg'
 
 function Home() {
     return (
